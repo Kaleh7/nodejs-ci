@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-ci",
+  "version": "1.0.0",
+  "description": "A simple Node.js application for CI with GitHub Actions lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaleh7/nodejs-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaleh7/nodejs-ci/issues"
+  },
+  "homepage": "https://github.com/Kaleh7/nodejs-ci#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
